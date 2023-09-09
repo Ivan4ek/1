@@ -1,0 +1,11 @@
+C:\GitProjectMDK\1MDK\1MDK\obj\Debug\1MDK.csproj.AssemblyReference.cache
+C:\GitProjectMDK\1MDK\1MDK\obj\Debug\1MDK.csproj.SuggestedBindingRedirects.cache
+C:\GitProjectMDK\1MDK\1MDK\obj\Debug\ImageViewer.Form1.resources
+C:\GitProjectMDK\1MDK\1MDK\obj\Debug\_1MDK.Properties.Resources.resources
+C:\GitProjectMDK\1MDK\1MDK\obj\Debug\1MDK.csproj.GenerateResource.cache
+C:\GitProjectMDK\1MDK\1MDK\obj\Debug\1MDK.csproj.CoreCompileInputs.cache
+C:\GitProjectMDK\1MDK\1MDK\bin\Debug\1MDK.exe.config
+C:\GitProjectMDK\1MDK\1MDK\bin\Debug\1MDK.exe
+C:\GitProjectMDK\1MDK\1MDK\bin\Debug\1MDK.pdb
+C:\GitProjectMDK\1MDK\1MDK\obj\Debug\1MDK.exe
+C:\GitProjectMDK\1MDK\1MDK\obj\Debug\1MDK.pdb
